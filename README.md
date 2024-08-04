@@ -1,7 +1,7 @@
 Hello World HTML5 Project
 ========================
 
-This is a basic HTML5 project that displays a "Hello World" message.
+This is a basic HTML5 project that displays a "HELLO WORLD" message.
 
 How to Open
 ------------
@@ -13,6 +13,6 @@ How to Open
 What to Expect
 --------------
 
-You should see a web page with a "Hello World" message displayed in HTML5 format.
+You should see a web page with a "HELLO WORLD" message displayed in HTML5 format.
 
-Note: This project does not require any dependencies or installations. Simply open the `index.html` file in a web browser to view the "Hello World" message.
+Note: This project does not require any dependencies or installations. Simply open the `index.html` file in a web browser to view the "HELLO WORLD" message.
